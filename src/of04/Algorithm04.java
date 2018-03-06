@@ -4,6 +4,9 @@ package of04;
  * Created by xinchang on 2017/12/28.
  */
 
+import java.util.LinkedHashMap;
+import java.util.Map;
+
 /**
  * 链表反转
  */
@@ -28,19 +31,21 @@ public class Algorithm04 {
 
         System.out.println();
 
-        Node newNode1 = reverseNodeList(node1);
-        while (newNode1 != null) {
-            System.out.print(newNode1.getData() + " ");
-            newNode1 = newNode1.getNext();
-        }
-        System.out.println();
-
-
-//        Node newNode = revserseNodeList2(node1);
-//        while (newNode != null) {
-//            System.out.print(newNode.getData() + " ");
-//            newNode = newNode.getNext();
+//        Node newNode1 = reverseNodeList(node1);
+//        while (newNode1 != null) {
+//            System.out.print(newNode1.getData() + " ");
+//            newNode1 = newNode1.getNext();
 //        }
+//        System.out.println();
+
+
+        Node newNode = revserseNodeList2(node1);
+        while (newNode != null) {
+            System.out.print(newNode.getData() + " ");
+            newNode = newNode.getNext();
+        }
+
+
     }
 
     /**

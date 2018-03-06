@@ -134,7 +134,7 @@ public class MyLinkedList<AnyType> {
         System.out.println(myLinkedList.toString());
 
 
-        System.out.println(myLinkedList.get(2));
+        System.out.println(myLinkedList.get(19));
 
     }
 
