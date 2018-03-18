@@ -21,104 +21,113 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="of08.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/of08/of08.java">
+      <file leaf-file-name="of24.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of24/of24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="of07.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/of07/of07.java">
+      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of25/cankao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="449">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="of06.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/of06/of06.java">
+      <file leaf-file-name="of25.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of25/of25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="330">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of26/cankao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="of26.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of26/of26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of27/cankao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="261" column="23" lean-forward="false" selection-start-line="261" selection-start-column="23" selection-end-line="261" selection-end-column="23" />
               <folding>
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#4571#4572#0" expanded="true" />
+                <element signature="e#4617#4618#0" expanded="true" />
+                <element signature="e#4723#4724#0" expanded="true" />
+                <element signature="e#4766#4767#0" expanded="true" />
+                <element signature="e#4836#4837#0" expanded="true" />
+                <element signature="e#4873#4874#0" expanded="true" />
+                <element signature="e#4927#4928#0" expanded="true" />
+                <element signature="e#4974#4975#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/of07/cankao.java">
+      <file leaf-file-name="of27.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of27/of27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="75" column="5" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/of28/cankao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="189" column="11" lean-forward="false" selection-start-line="189" selection-start-column="11" selection-end-line="189" selection-end-column="11" />
+              <caret line="56" column="38" lean-forward="false" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <file leaf-file-name="of28.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/of28/of28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="of05.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/of05/of05.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/of05/cankao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10950">
-              <caret line="779" column="32" lean-forward="false" selection-start-line="779" selection-start-column="32" selection-end-line="779" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cankao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/of06/cankao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="-22">
+              <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -129,6 +138,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -142,7 +152,30 @@
       <find>expectedModCount</find>
       <find>LinkedList</find>
       <find>modCount</find>
+      <find>deleteNode</find>
+      <find>head</find>
+      <find>root</find>
+      <find>N</find>
+      <find>of18.cankao.BinaryTreeNode</find>
+      <find>Problem21</find>
+      <find>compareTo</find>
+      <find>of19.cankao.StackWithMin</find>
+      <find>right</find>
+      <find>verify</find>
+      <find>list</find>
+      <find>result</find>
+      <find>value</find>
+      <find>convert</find>
     </findStrings>
+    <replaceStrings>
+      <replace>delete</replace>
+      <replace>BinayTree</replace>
+      <replace>cankao</replace>
+      <replace>StackWithMin</replace>
+      <replace>virify</replace>
+      <replace>data</replace>
+      <replace>convertNode</replace>
+    </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -152,22 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/of01/Main.java" />
-        <option value="$PROJECT_DIR$/src/of01/懒汉式.java" />
-        <option value="$PROJECT_DIR$/src/of01/饿汉式.java" />
-        <option value="$PROJECT_DIR$/src/of01/InnerClass.java" />
-        <option value="$PROJECT_DIR$/src/of01/EnumSingle.java" />
-        <option value="$PROJECT_DIR$/src/of02/Algorithm02.java" />
-        <option value="$PROJECT_DIR$/src/of02/Algorithm02MySelf.java" />
-        <option value="$PROJECT_DIR$/src/of03/Of03.java" />
-        <option value="$PROJECT_DIR$/src/of04/Node.java" />
-        <option value="$PROJECT_DIR$/dataAlgorithm03java/src/cankao/MyArrayList.java" />
-        <option value="$PROJECT_DIR$/dataAlgorithm03java/src/chapter3/text.java" />
-        <option value="$PROJECT_DIR$/dataAlgorithm03java/src/cankao/MyLinkedList.java" />
-        <option value="$PROJECT_DIR$/dataAlgorithm03java/src/chapter3/MyArrayList.java" />
-        <option value="$PROJECT_DIR$/dataAlgorithm03java/src/chapter3/MyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/of04/Algorithm04.java" />
         <option value="$PROJECT_DIR$/src/Jobs.java" />
         <option value="$PROJECT_DIR$/src/Job.java" />
         <option value="$PROJECT_DIR$/src/MyClassLoader.java" />
@@ -181,6 +198,44 @@
         <option value="$PROJECT_DIR$/src/of06/of06.java" />
         <option value="$PROJECT_DIR$/src/of07/cankao.java" />
         <option value="$PROJECT_DIR$/src/of07/of07.java" />
+        <option value="$PROJECT_DIR$/src/of09/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of14/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of15/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of09/of09.java" />
+        <option value="$PROJECT_DIR$/src/of10/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of10/of10.java" />
+        <option value="$PROJECT_DIR$/src/of11/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of12/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of12/of12.java" />
+        <option value="$PROJECT_DIR$/src/of13/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of13/of13.java" />
+        <option value="$PROJECT_DIR$/src/of14/of14.java" />
+        <option value="$PROJECT_DIR$/src/of15/of15.java" />
+        <option value="$PROJECT_DIR$/src/of16/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of16/of16.java" />
+        <option value="$PROJECT_DIR$/src/of17/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of17/of17.java" />
+        <option value="$PROJECT_DIR$/src/of18/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of18/of18.java" />
+        <option value="$PROJECT_DIR$/src/of19/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of19/of19.java" />
+        <option value="$PROJECT_DIR$/src/of20/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of20/of20.java" />
+        <option value="$PROJECT_DIR$/src/of21/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of21/of21.java" />
+        <option value="$PROJECT_DIR$/src/of22/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of22/of22.java" />
+        <option value="$PROJECT_DIR$/src/of23/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of23/of23.java" />
+        <option value="$PROJECT_DIR$/src/of24/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of24/of24.java" />
+        <option value="$PROJECT_DIR$/src/of25/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of25/of25.java" />
+        <option value="$PROJECT_DIR$/src/of26/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of26/of26.java" />
+        <option value="$PROJECT_DIR$/src/of27/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of28/cankao.java" />
+        <option value="$PROJECT_DIR$/src/of28/of28.java" />
       </list>
     </option>
   </component>
@@ -191,7 +246,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -211,6 +265,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,45 +292,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="of08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="of07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -290,6 +308,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="SearchEverywhereHistoryKey" value="LinkedList&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/LinkedList.class&#10;ArrayList&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/ArrayList.class" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -301,30 +320,15 @@
       <recent name="$PROJECT_DIR$/dataAlgorithm03java/cankao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.of07">
-    <configuration default="false" name="cankao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.of28">
+    <configuration default="false" name="of26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="of07.*" />
+          <option name="PATTERN" value="of26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="of07.cankao" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="User" />
+      <option name="MAIN_CLASS_NAME" value="of26.of26" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -340,11 +344,11 @@
     <configuration default="false" name="cankao (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="of08.*" />
+          <option name="PATTERN" value="of26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="of08.cankao" />
+      <option name="MAIN_CLASS_NAME" value="of26.cankao" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -357,14 +361,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="of08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="cankao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="of08.*" />
+          <option name="PATTERN" value="of27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="of08.of08" />
+      <option name="MAIN_CLASS_NAME" value="of27.cankao" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -377,14 +381,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="of07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="cankao (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="of07.*" />
+          <option name="PATTERN" value="of28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="of07.of07" />
+      <option name="MAIN_CLASS_NAME" value="of28.cankao" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="of28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="of28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="of28.of28" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -755,19 +779,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.cankao" />
-      <item index="1" class="java.lang.String" itemvalue="Application.User" />
-      <item index="2" class="java.lang.String" itemvalue="Application.cankao (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.of08" />
-      <item index="4" class="java.lang.String" itemvalue="Application.of07" />
+      <item index="0" class="java.lang.String" itemvalue="Application.of26" />
+      <item index="1" class="java.lang.String" itemvalue="Application.cankao (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.cankao" />
+      <item index="3" class="java.lang.String" itemvalue="Application.cankao (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.of28" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.of07" />
-        <item index="1" class="java.lang.String" itemvalue="Application.cankao" />
-        <item index="2" class="java.lang.String" itemvalue="Application.cankao (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.of08" />
-        <item index="4" class="java.lang.String" itemvalue="Application.User" />
+        <item index="0" class="java.lang.String" itemvalue="Application.of28" />
+        <item index="1" class="java.lang.String" itemvalue="Application.cankao (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.cankao" />
+        <item index="3" class="java.lang.String" itemvalue="Application.of26" />
+        <item index="4" class="java.lang.String" itemvalue="Application.cankao (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -789,16 +813,20 @@
       <workItem from="1515781318670" duration="27000" />
       <workItem from="1516003300929" duration="15033000" />
       <workItem from="1516364367959" duration="1196000" />
-      <workItem from="1519628475820" duration="16278000" />
+      <workItem from="1519628475820" duration="17531000" />
+      <workItem from="1520408390322" duration="4488000" />
+      <workItem from="1520520241316" duration="1542000" />
+      <workItem from="1521018521609" duration="688000" />
+      <workItem from="1521092285338" duration="34629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62348000" />
+    <option name="totallyTimeSpent" value="104948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -809,27 +837,27 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33034572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13090129" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13662376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32010242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -886,7 +914,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="53" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -895,495 +923,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/of02/Algorithm02MySelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of04/Algorithm04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of04/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of03/Of03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of01/懒汉式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of01/饿汉式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of01/EnumSingle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/cankao/MyArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/src/chapter3/text.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8715">
-          <caret line="614" column="17" lean-forward="false" selection-start-line="614" selection-start-column="17" selection-end-line="614" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#60784#0" expanded="false" />
-            <element signature="e#6101#6102#0" expanded="false" />
-            <element signature="e#6171#6172#0" expanded="false" />
-            <element signature="e#7967#7968#0" expanded="false" />
-            <element signature="e#8013#8014#0" expanded="false" />
-            <element signature="e#9482#9483#0" expanded="false" />
-            <element signature="e#9528#9529#0" expanded="false" />
-            <element signature="e#10902#10903#0" expanded="false" />
-            <element signature="e#10948#10949#0" expanded="false" />
-            <element signature="e#15724#15725#0" expanded="false" />
-            <element signature="e#15779#15780#0" expanded="false" />
-            <element signature="e#32532#32533#0" expanded="false" />
-            <element signature="e#32566#32567#0" expanded="false" />
-            <element signature="e#33488#33489#0" expanded="false" />
-            <element signature="e#33522#33523#0" expanded="false" />
-            <element signature="e#33736#33737#0" expanded="false" />
-            <element signature="e#33771#33772#0" expanded="false" />
-            <element signature="e#33891#33892#0" expanded="false" />
-            <element signature="e#33919#33920#0" expanded="false" />
-            <element signature="e#34168#34169#0" expanded="false" />
-            <element signature="e#34202#34203#0" expanded="false" />
-            <element signature="e#34414#34415#0" expanded="false" />
-            <element signature="e#34449#34450#0" expanded="false" />
-            <element signature="e#34664#34665#0" expanded="false" />
-            <element signature="e#34700#34701#0" expanded="false" />
-            <element signature="e#35161#35162#0" expanded="false" />
-            <element signature="e#35199#35200#0" expanded="false" />
-            <element signature="e#35486#35487#0" expanded="false" />
-            <element signature="e#35532#35533#0" expanded="false" />
-            <element signature="e#35824#35825#0" expanded="false" />
-            <element signature="e#35852#35853#0" expanded="false" />
-            <element signature="e#37816#37817#0" expanded="false" />
-            <element signature="e#37859#37860#0" expanded="false" />
-            <element signature="e#46394#46395#0" expanded="false" />
-            <element signature="e#46458#46459#0" expanded="false" />
-            <element signature="e#47036#47037#0" expanded="false" />
-            <element signature="e#47092#47093#0" expanded="false" />
-            <element signature="e#47615#47616#0" expanded="false" />
-            <element signature="e#47675#47676#0" expanded="false" />
-            <element signature="e#48444#48445#0" expanded="false" />
-            <element signature="e#48491#48492#0" expanded="false" />
-            <element signature="e#56465#56466#0" expanded="false" />
-            <element signature="e#56523#56524#0" expanded="false" />
-            <element signature="e#57650#57651#0" expanded="false" />
-            <element signature="e#57708#57709#0" expanded="false" />
-            <element signature="e#59796#59797#0" expanded="false" />
-            <element signature="e#59824#59825#0" expanded="false" />
-            <element signature="e#60191#60192#0" expanded="false" />
-            <element signature="e#60228#60229#0" expanded="false" />
-            <element signature="e#60595#60596#0" expanded="false" />
-            <element signature="e#60632#60633#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40935">
-          <caret line="2795" column="21" lean-forward="false" selection-start-line="2795" selection-start-column="20" selection-end-line="2795" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/dataAlgorithm03java.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/LinkedList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/src/cankao/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="112" column="27" lean-forward="false" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/src/cankao/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="154" column="4" lean-forward="false" selection-start-line="132" selection-start-column="3" selection-end-line="154" selection-end-column="4" />
-          <folding>
-            <element signature="e#229#230#0" expanded="false" />
-            <element signature="e#255#256#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#318#319#0" expanded="false" />
-            <element signature="e#790#791#0" expanded="false" />
-            <element signature="e#820#821#0" expanded="false" />
-            <element signature="e#861#862#0" expanded="false" />
-            <element signature="e#896#897#0" expanded="false" />
-            <element signature="e#1481#1482#0" expanded="false" />
-            <element signature="e#1539#1540#0" expanded="false" />
-            <element signature="e#2309#2310#0" expanded="false" />
-            <element signature="e#2351#2352#0" expanded="false" />
-            <element signature="e#3118#3119#0" expanded="false" />
-            <element signature="e#3171#3172#0" expanded="false" />
-            <element signature="e#4338#4339#0" expanded="false" />
-            <element signature="e#4385#4386#0" expanded="false" />
-            <element signature="e#5257#5258#0" expanded="false" />
-            <element signature="e#5305#5306#0" expanded="false" />
-            <element signature="e#5785#5786#0" expanded="false" />
-            <element signature="e#5836#5837#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/src/chapter3/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="52" lean-forward="false" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-          <folding>
-            <element signature="e#418#419#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#488#489#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#574#575#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#1977#1978#0" expanded="false" />
-            <element signature="e#2028#2029#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAlgorithm03java/src/chapter3/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#280#281#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#512#513#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#678#679#0" expanded="false" />
-            <element signature="e#712#713#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="193" column="41" lean-forward="true" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="817" column="33" lean-forward="true" selection-start-line="817" selection-start-column="33" selection-end-line="817" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of01/InnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of02/Algorithm02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of02/Algorithm02MySelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of03/Of03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of04/Algorithm04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of04/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#159#160#0" expanded="false" />
-            <element signature="e#191#192#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <element signature="e#7217#7482#0" expanded="true" />
-            <element signature="e#7481#7482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/security/SecureClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="93" column="70" lean-forward="true" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jobs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="638" column="81" lean-forward="true" selection-start-line="638" selection-start-column="81" selection-end-line="638" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="1195" column="34" lean-forward="false" selection-start-line="1195" selection-start-column="34" selection-end-line="1195" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/javafx-src.zip!/com/sun/webkit/WatchdogTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="104" column="31" lean-forward="false" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="115" lean-forward="false" selection-start-line="5" selection-start-column="115" selection-end-line="5" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/javax/net/ssl/X509TrustManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="610" column="45" lean-forward="true" selection-start-line="610" selection-start-column="45" selection-end-line="610" selection-end-column="45" />
-          <folding>
-            <element signature="e#15215#15216#0" expanded="false" />
-            <element signature="e#15264#15265#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
-          <folding>
-            <element signature="e#170#171#0" expanded="false" />
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#299#300#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#393#394#0" expanded="false" />
-            <element signature="e#423#424#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#517#518#0" expanded="false" />
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#984#985#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="77" lean-forward="true" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of08/cankao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of08/of08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10950">
-          <caret line="779" column="32" lean-forward="false" selection-start-line="779" selection-start-column="32" selection-end-line="779" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of05/of05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of05/cankao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of06/cankao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/of06/of06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="189" column="11" lean-forward="false" selection-start-line="189" selection-start-column="11" selection-end-line="189" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1391,7 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="75" column="5" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1399,6 +941,405 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/of08/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of09/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of09/of09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of10/of10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of11/of11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of03/Of03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of12/of12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of13/of13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of14/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of14/of14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of15/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="96" column="52" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="96" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of15/of15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of16/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of16/of16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of17/of17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="93" column="56" lean-forward="false" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of17/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="890">
+          <caret line="116" column="43" lean-forward="true" selection-start-line="116" selection-start-column="43" selection-end-line="116" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of18/of18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of13/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of12/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of11/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of10/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of20/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of20/of20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of21/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of21/of21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-686">
+          <caret line="44" column="51" lean-forward="true" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of19/of19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of19/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="5" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of18/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="120" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of22/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="122" column="19" lean-forward="true" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of22/of22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-566">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of23/of23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of23/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="48" column="35" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="48" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of24/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="66" column="13" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="66" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of24/of24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of25/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of25/of25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of26/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of26/of26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of27/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="261" column="23" lean-forward="false" selection-start-line="261" selection-start-column="23" selection-end-line="261" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
+            <element signature="e#4617#4618#0" expanded="true" />
+            <element signature="e#4723#4724#0" expanded="true" />
+            <element signature="e#4766#4767#0" expanded="true" />
+            <element signature="e#4836#4837#0" expanded="true" />
+            <element signature="e#4873#4874#0" expanded="true" />
+            <element signature="e#4927#4928#0" expanded="true" />
+            <element signature="e#4974#4975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of27/of27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="56" column="38" lean-forward="false" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of28/cankao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/of28/of28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding />
         </state>
       </provider>
