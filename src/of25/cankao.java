@@ -49,8 +49,8 @@ public class cankao {
         permutation(c1);
         System.out.println();
 
-        char[] c2 = {'a', 'b', 'c', 'd'};
-        permutation(c2);
+//        char[] c2 = {'a', 'b', 'c', 'd'};
+//        permutation(c2);
     }
 }
 

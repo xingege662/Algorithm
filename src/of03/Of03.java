@@ -26,6 +26,10 @@ public class Of03 {
      */
     public static boolean isInclude(int[][] arr, int value) {
 
+        if (arr == null && arr.length == 0) {
+            return false;
+        }
+
         int rowLenth = arr.length; //行的长度
 
         int columnLent = arr[0].length; //列的长度

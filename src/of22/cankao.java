@@ -66,7 +66,7 @@ public class cankao {
         // 接下来要保证[index, end-1]的所有元素都是大于根根点的【A】
         // 因为[index, end-1]只有成为根结点的右子树
         // 从第一个不小于根结点的元素开始，找第一个不大于根结点的元素
-        while (index < end - 1 && sequence[index] > sequence[end]) {
+        while (index < end - 1  && sequence[index] > sequence[end]) {
             index++;
         }
 

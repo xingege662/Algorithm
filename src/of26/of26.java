@@ -42,7 +42,7 @@ public class of26 {
 
     public static void main(String[] args) {
         // 存在出现次数超过数组长度一半的数字
-        int numbers[] = {1, 2, 3, 2, 2, 2, 5, 4, 2};
+        int numbers[] = {1, 2, 3, 2,5, 4, 2, 2,  2};
         System.out.println(moreThanHalfNum(numbers));
 
         // 出现次数超过数组长度一半的数字都出现在数组的前半部分
